@@ -1,12 +1,8 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: vx-desktop-wallpapers
+Upstream-Name: vx-dga-desktop-wallpapers
 
-Files: usr/share/pixmaps/vitalinux/vitalinux-green.png
-Copyright: 2013 Flavia Jim <flaviajim93@gmail.com>
-License: GPL-3.0+
-
-Files: usr/share/pixmaps/vitalinux/vitalinux-grey.png
-Copyright: 2013 Pedro Delicado Ponce <pedroponce@gmail.com>
+Files: usr/share/pixmaps/dga/fondoedu.png
+Copyright: 2014 Angel Lafuente <angel.lafuentezgz@gmail.com>
 License: GPL-3.0+
 
 Files: usr/share/gnome-background-properties/* debian/*

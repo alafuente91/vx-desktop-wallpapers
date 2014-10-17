@@ -2,13 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
     <wallpaper deleted="false">
-        <name>Vitalinux green</name>
-        <name xml:lang="es">Vitalinux verde</name>
-        <filename>/usr/share/pixmaps/vitalinux/vitalinux-green.png</filename>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Vitalinux Grey</name>
+        <name>Vitalinux dga</name>
         <name xml:lang="es">Vitalinux gris</name>
-        <filename>/usr/share/pixmaps/vitalinux/vitalinux-grey.png</filename>
+        <filename>/usr/share/pixmaps/dga/fondoedu.png</filename>
     </wallpaper>
 </wallpapers>

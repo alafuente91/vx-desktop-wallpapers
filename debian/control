@@ -1,12 +1,12 @@
-Source: vx-desktop-wallpapers
+Source: vx-dga-desktop-wallpapers
 Section: gnome
 Priority: extra
-Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Maintainer: Ángel Lafuente <angel.lafuentezgz@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 Homepage: https://github.com/vitalinux/vx-desktop-wallpapers
 
-Package: vx-desktop-wallpapers
+Package: vx-dga-desktop-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
-Description: Wallpapers for Vitalinux project
+Description: Wallpapers for DGA project
